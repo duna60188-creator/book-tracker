@@ -1,0 +1,7 @@
+pycache/
+*.pyc
+books.json
+.DS_Store
+venv/
+.idea/
+.vscode/
